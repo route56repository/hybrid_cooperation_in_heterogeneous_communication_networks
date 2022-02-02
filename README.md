@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a repository of a project about a Multi-Armed Bandit for Wireless Network selection. This project is supported by ROUTE56 and Universitat Politècnica de Catalunya. This project has had a paper published in IEEE Globecom 2021. It can be checked [here](https://ieeexplore.ieee.org/document/9681963)
+This is a repository of a project about a Multi-Armed Bandit for Wireless Network selection. This project is supported by ROUTE56 and Universitat Politècnica de Catalunya. This project has had a paper published in IEEE Globecom 2021. It can be read [here](https://ieeexplore.ieee.org/document/9681963).
 
 This repository is divided into 2 parts: simmulation and results representation. The simmulation code is the most interesting one. It its the part of code in charge of running the whole simmulation. On the other hand, the results code is in charge of creating a visual representation of the results obtained from the simmulation code. The simmulation code has been developed using python3.9 and the representation code uses matlab.
 
