@@ -1,0 +1,12 @@
+##################
+#   Repository   #
+#  requirements  #
+##################
+
+# Download tensorflow (for BNN). Includes numpy and other useful libraries
+tensorflow==2.7.0
+keras==2.7.0
+tensorflow-gpu==2.7.0
+
+# Download scipy (used for some pdfs)
+scipy==1.7.1
